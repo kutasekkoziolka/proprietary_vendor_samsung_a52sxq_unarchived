@@ -44,6 +44,15 @@ jobs:
           # OXM OMC
           - model: "SM-A528B"
             region: "BTU"
+          # SFR OMC
+          - model: "SM-A528B"
+            region: "SFR"
+          # EUX OMC
+          - model: "SM-A528B"
+            region: "EUX"
+          # EUH OMC
+          - model: "SM-A528B"
+            region: "EUH"
 
     steps:
       - name: Checkout repo
