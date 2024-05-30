@@ -24,8 +24,8 @@ jobs:
           - model: "SM-A528B"
             region: "EGY"
           # OKR OMC
-          - model: "SM-A528N"
-            region: "KOO"
+          # - model: "SM-A528N"
+          #   region: "KOO"
           # OLE OMC
           - model: "SM-A528B"
             region: "XID"
@@ -42,8 +42,8 @@ jobs:
           - model: "SM-A528B"
             region: "PEO"
           # OXM OMC
-          - model: "SM-A528B"
-            region: "BTU"
+          # - model: "SM-A528B"
+          #   region: "BTU"
           # SFR OMC
           - model: "SM-A528B"
             region: "SFR"
