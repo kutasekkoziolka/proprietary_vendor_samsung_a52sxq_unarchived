@@ -18,8 +18,8 @@ jobs:
           - model: "SM-A528B"
             region: "BRI"
           # ODM OMC
-          - model: "SM-A528B"
-            region: "INS"
+          # - model: "SM-A528B"
+          #   region: "INS"
           # OJM OMC
           - model: "SM-A528B"
             region: "EGY"
@@ -27,8 +27,8 @@ jobs:
           # - model: "SM-A528N"
           #   region: "KOO"
           # OLE OMC
-          - model: "SM-A528B"
-            region: "XID"
+          # - model: "SM-A528B"
+          #   region: "XID"
           # OLM OMC
           - model: "SM-A528B"
             region: "XSA"
